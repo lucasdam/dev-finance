@@ -22,6 +22,7 @@ Facilitar a organização das finanças.
 - HTML
 - CSS
 - JavaScript
+- localStorage (para armazenamento de dados)
 <br /> <br />
 
 ### 📷 Prints:
