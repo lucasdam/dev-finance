@@ -133,7 +133,7 @@ header {
 }
 
 .card p {
-    font-size: 2rem;
+    font-size: 1.8rem;
     line-height: 3rem;
     margin-top: 1rem;
 }
@@ -223,7 +223,7 @@ td.expense {
     padding: 2.4rem;
 }
 
-/* ===================== From ======================= */
+/* ===================== Form ======================= */
 #form {
     max-width: 500px;
 }
@@ -243,7 +243,7 @@ input {
     margin-top: 0.8rem;
 }
 
-.input-group small {
+.input-group .help {
     opacity: 0.4;
 }
 
@@ -275,6 +275,6 @@ footer {
     #balance {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        gap: 1.98rem;
+        gap: 2rem;
     }
 }
